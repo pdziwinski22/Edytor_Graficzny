@@ -4,19 +4,16 @@
 Ten projekt służy do wczytywania, przetwarzania i zapisywania obrazów za pomocą różnych technik przetwarzania obrazu przy użyciu biblioteki OpenCV. Umożliwia użytkownikowi wykonywanie różnorodnych operacji na obrazach, takich jak transformacja kolorów, binaryzacja, erozja, operacje morfologiczne, filtracja oraz kompresja.
 
 # Funkcje
-1. wczytaj_obraz: Wczytuje obraz z pliku podanego przez użytkownika.
-2. pokaz_obraz: Wyświetla obraz w nowym oknie.
-3. zapisz_obraz: Zapisuje przetworzony obraz do pliku.
-4 transformacja_koloru: Konwertuje obraz do przestrzeni kolorów HSV i LAB.
-5.negatyw: Generuje negatyw obrazu.
-6. binaryzacja: Przeprowadza binaryzację obrazu na podstawie progu podanego przez użytkownika.
-7. erozja: Przeprowadza erozję obrazu z różnym sąsiedztwem.
-8. otwarcie: Wykonuje operację morfologicznego otwarcia.
-9. domkniecie: Wykonuje operację morfologicznego domknięcia.
-10. filtr: Stosuje wybrane przez użytkownika filtry (Gaussa, medianowy, bilateralny).
-11. wyrównanie_histogramu: Wyrównuje histogram obrazu w skali szarości.
-12. kompresja: Kompresuje obraz do pliku JPEG z wybraną jakością.
-13. wygladzanie: Wygładza obraz za pomocą uśredniania.
+1. transformacja koloru: Konwertuje obraz do przestrzeni kolorów HSV i LAB.
+2. negatyw: Generuje negatyw obrazu.
+3. binaryzacja: Przeprowadza binaryzację obrazu na podstawie progu podanego przez użytkownika.
+4. erozja: Przeprowadza erozję obrazu z różnym sąsiedztwem.
+5. otwarcie: Wykonuje operację morfologicznego otwarcia.
+6. domkniecie: Wykonuje operację morfologicznego domknięcia.
+7. filtr: Stosuje wybrane przez użytkownika filtry (Gaussa, medianowy, bilateralny).
+8. wyrównanie histogramu: Wyrównuje histogram obrazu w skali szarości.
+9. kompresja: Kompresuje obraz do pliku JPEG z wybraną jakością.
+10. wygladzanie: Wygładza obraz za pomocą uśredniania.
 
 # Instrukcja użytkowania
 
